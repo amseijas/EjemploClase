@@ -18,5 +18,8 @@ public class Calculadora {
         this.n2 = n2;
     }
     
+    public int suma(){
+        return n1+n2;
+    }
     
 }
